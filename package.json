@@ -1,0 +1,22 @@
+{
+  "name": "lp-website",
+  "version": "1.0.0",
+  "description": "lan party 2024 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WobblyGreen/LP-website.git"
+  },
+  "author": "Pasquale Gravante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WobblyGreen/LP-website/issues"
+  },
+  "homepage": "https://github.com/WobblyGreen/LP-website#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
