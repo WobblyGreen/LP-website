@@ -4,7 +4,7 @@
   "description": "lan party 2024 website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/WobblyGreen/LP-website#readme",
   "dependencies": {
-    "jquery": "^3.7.1"
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
   }
 }
